@@ -11,9 +11,7 @@
 - **Customizability 🎚️**: 
   - Full control over speed, and mode.
   - All parameters are configurable, allowing users to tailor the experience to their preferences.
-  
-- **Multi-File Architecture 📁 **: 
-  - The code is split into multiple files for better organization and readability, making it easier to maintain and extend.
+
   
 ## 📦 Installation
 
