@@ -12,6 +12,10 @@
   - Full control over speed, and mode.
   - All parameters are configurable, allowing users to tailor the experience to their preferences.
 
+## ⚠️ Requirements
+
+- Python 3.x
+- pyautogui
   
 ## 📦 Installation
 
